@@ -3,7 +3,7 @@
 ![preview](./images/PreviewWeb.png)
 
 
-Projeto construído a partir do Programa Explorer / Stage 02 / Corrigindo bugs(1). 
+Projeto construído a partir do Programa Explorer / Stage 02 / Corrigindo bugs(1). <br/>
 Foi disponibilizado um zip com o projeto pronto, porém todo bugado, desalinhado e sem formatação. O desafio era encontrar os bugs e corrigir.
 <br />
 
