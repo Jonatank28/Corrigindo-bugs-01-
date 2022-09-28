@@ -22,4 +22,4 @@ WhatsApp: (49) 9 8435-6670
 
 ## 🤓 Considerações
 
-Esse projeto foi muito importante para aprender a detectar os bugs do dia e dia, e quando isso acontecer saber como se posicionar, pesquisar para resolver.
+Esse projeto foi muito importante para aprender a detectar os bugs do dia e dia, e quando isso acontecer saber como se posicionar e pesquisar para resolver.
