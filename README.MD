@@ -20,6 +20,6 @@ link do desafio:  https://efficient-sloth-d85.notion.site/Iniciante-Corrigindo-b
 Email: jonatankalmeidakk28@gmail.com <br />
 WhatsApp: (49) 9 8435-6670
 
-##  Considerações
+## 🤓 Considerações
 
 Esse projeto foi muito importante para aprender a detectar os bugs do dia e dia, e quando isso acontecer saber como se posicionar, pesquisar para resolver.
