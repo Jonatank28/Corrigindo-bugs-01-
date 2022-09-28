@@ -1,4 +1,5 @@
 # Desafio: Rocket Landing Pages
+Corrigindo bugs (02)
 
 ![preview](./images/PreviewWeb.png)
 
